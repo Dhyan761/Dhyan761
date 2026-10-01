@@ -28,9 +28,9 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **PageSense** — Agentic RAG Chrome Extension | Chat with any webpage. FAISS retrieval in < 0.3 s, Groq Llama 3.3 70B with a web-search fallback tool and per-tab memory. | FastAPI · LangChain · FAISS · Groq · Chrome MV3 |
+| [**PageSense**](https://github.com/Dhyan761/pagesense--ai-website-extension) — Agentic RAG Chrome Extension | Chat with any webpage. FAISS retrieval in < 0.3 s, Groq Llama 3.3 70B with a web-search fallback tool and per-tab memory. | FastAPI · LangChain · FAISS · Groq · Chrome MV3 |
 | [**AI News Aggregator**](https://github.com/Dhyan761/ai-news-aggregator) | Scrapes YouTube + OpenAI/Anthropic blogs, LLM agents summarize and rank by my profile, then a daily email digest is sent. Runs on a GitHub Actions schedule. | Python · OpenAI · PostgreSQL · Docker · Render |
-| **Document Copilot** — RAG over SEC filings | Ask plain-English questions about 10-K filings and get grounded answers with citations, using hybrid search (pgvector + full-text). | FastAPI · React · TypeScript · Supabase · pgvector |
+| [**Document Copilot**](https://github.com/Dhyan761/ai-document-co-pilot-) — RAG over SEC filings | Ask plain-English questions about 10-K filings and get grounded answers with citations, using hybrid search (pgvector + full-text). | FastAPI · React · TypeScript · Supabase · pgvector |
 | [**InterviewEdge**](https://github.com/Dhyan761/AI-INTERVIEW) | AI mock-interview platform with real-time evaluation and personalized feedback. | Next.js · PostgreSQL · Gemini AI |
 
 ## 🛠️ Tech stack
