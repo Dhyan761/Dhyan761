@@ -6,7 +6,7 @@
 
 ### Full-Stack & Generative AI Engineer · I build GenAI apps that ship
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dhyan761.github.io-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhyan761.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dhyan--b.vercel.app-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhyan-b.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhyan%20B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhyan-b-66ba8326b/)
 [![Email](https://img.shields.io/badge/Email-dhyanb761%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhyanb761@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Dhyan761-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dhyan761/)
@@ -96,6 +96,6 @@
 
 <div align="center">
 
-📄 [**Download my résumé**](https://dhyan761.github.io/assets/Dhyan-B-Resume.pdf) · 💬 Let's build something with AI. Reach out at **dhyanb761@gmail.com**
+📄 [**Download my résumé**](https://dhyan-b.vercel.app/assets/Dhyan-B-Resume.pdf) · 💬 Let's build something with AI. Reach out at **dhyanb761@gmail.com**
 
 </div>
